@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 You've reached my Github profile!
+
+I'm a front-end web developer, based in Birmingham, UK.
+Why not check out my [portfolio website](https://www.scott-nicholson.co.uk)?
+
+I have also pinned a few of my proudest repositories below ⤵️
 
 <!--
 **snicholson99/snicholson99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
