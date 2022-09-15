@@ -1,7 +1,7 @@
 ### Hi there, you've reached my GitHub profile! 👋
 
 I'm a front-end web developer, based in Birmingham, UK.
-Why not check out my [portfolio website](https://www.scott-nicholson.co.uk)?
+Why not check out my [portfolio website](https://www.scottnicholson.co.uk)?
 
 I have also pinned a few of my proudest repositories below 🎉 ⤵️
 
